@@ -1,0 +1,10 @@
+2025-06-27 18:59:16 INFO  c.e.selenium.utils.WebDriverUtil - Setting up ChromeDriver
+2025-06-27 18:59:18 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-27 18:59:18 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-27 18:59:21 INFO  c.e.selenium.utils.WebDriverUtil - ChromeDriver initialized successfully
+2025-06-27 18:59:21 INFO  c.e.selenium.config.ConfigReader - Configuration file loaded successfully
+2025-06-27 18:59:59 INFO  c.e.selenium.utils.WebDriverUtil - Setting up ChromeDriver
+2025-06-27 19:00:00 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-27 19:00:00 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-27 19:00:02 INFO  c.e.selenium.utils.WebDriverUtil - ChromeDriver initialized successfully
+2025-06-27 19:00:02 INFO  c.e.selenium.config.ConfigReader - Configuration file loaded successfully
